@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383216186854",
+    "project_id": "rafood-c43ab",
+    "storage_bucket": "rafood-c43ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383216186854:android:4858b6fe31c5d4d9405227",
+        "android_client_info": {
+          "package_name": "com.example.rafood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBucODiL81KIR7XXwiiAUfsWkbDC-uh2Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
